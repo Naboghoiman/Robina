@@ -1,0 +1,6 @@
+{
+  "name": "IMAN — DiscDJ Studio",
+  "description": "Professional dual-deck DJ audio engine and console featuring the verified 20-step synchronization model, vinyl scratching, 10-band EQ, SFX rack, 12-pad sampler, and live mix recording.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
